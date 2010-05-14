@@ -1,0 +1,703 @@
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:43:16) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 109ms (View: 106 | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-05-12 03:43:16) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/global.css" with {:method=>:get}):
+  /usr/lib/ruby/gems/1.9.1/gems/haml-3.0.0.rc.5/lib/sass/plugin/rack.rb:43:in `call'
+  /usr/lib/ruby/gems/1.9.1/gems/haml-3.0.0.rc.5/lib/sass/plugin/rack.rb:43:in `call'
+  <internal:prelude>:8:in `synchronize'
+  /usr/lib/ruby/1.9.1/webrick/httpserver.rb:111:in `service'
+  /usr/lib/ruby/1.9.1/webrick/httpserver.rb:70:in `run'
+  /usr/lib/ruby/1.9.1/webrick/server.rb:183:in `block in start_thread'
+
+Rendering rescues/layout (not_found)
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:49:08) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 19ms (View: 16 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:50:29) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 19ms (View: 17 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:51:08) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:51:23) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:52:22) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:52:31) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 5ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:52:41) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 5ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:52:50) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:53:53) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 20ms (View: 18 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:54:16) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 20ms (View: 18 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:54:32) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 5ms (View: 3 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:54:36) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:54:57) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:55:07) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:55:11) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:55:18) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 44ms (View: 41 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:58:18) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 03:58:35) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 5ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:00:45) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:02:12) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 4ms (View: 2 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:04:22) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 63ms (View: 60 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:05:48) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:06:30) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 22ms (View: 19 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:06:36) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:07:56) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:08:53) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:11:53) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:12:08) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:13:08) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:13:20) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:13:21) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:13:59) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:14:02) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:16:58) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 23ms (View: 20 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:17:14) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 11ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:17:43) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 22ms (View: 20 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:18:54) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:18:57) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:18:58) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:18:59) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:18:59) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:19:00) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:19:01) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:19:09) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:19:09) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:19:10) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:19:11) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 04:55:04) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 10:47:56) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:12:44) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:12:45) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:22:32) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 192.168.178.21 at 2010-05-12 12:23:11) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://192.168.178.22/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:19) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:33) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:34) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:37) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:38) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:40) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:41) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:42) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:42) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:43) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:44) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:45) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 58ms (View: 56 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:46) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:46) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:47) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:47) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:48) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:48) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:50) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:50) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:51) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:51) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:52) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 8ms (View: 5 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:53) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:53) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:54) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:54) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:55) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:55) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:56) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:25:57) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:29:03) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:29:04) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:29:05) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:29:06) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:29:07) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 192.168.178.21 at 2010-05-12 12:29:07) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:29:07) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:29:08) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 192.168.178.21 at 2010-05-12 12:29:10) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 192.168.178.21 at 2010-05-12 12:29:11) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 192.168.178.21 at 2010-05-12 12:29:13) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 192.168.178.21 at 2010-05-12 12:29:14) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 61ms (View: 5 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 192.168.178.21 at 2010-05-12 12:29:14) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:40:34) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 9ms (View: 6 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:40:36) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:41:18) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:41:21) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:41:23) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:41:24) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:41:25) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 5 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-12 12:41:26) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://folgtdir/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-13 01:55:54) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 128ms (View: 125 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-13 01:56:00) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-13 01:56:01) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 45ms (View: 42 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-13 01:56:01) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-13 01:56:18) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-13 01:56:23) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 7ms (View: 4 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-13 01:56:29) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 45ms (View: 43 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-13 01:56:33) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://localhost/]
+
+
+Processing WelcomeController#index (for 127.0.0.1 at 2010-05-13 01:56:34) [GET]
+Rendering template within layouts/application
+Rendering welcome/index
+Completed in 6ms (View: 4 | 200 OK [http://localhost/]

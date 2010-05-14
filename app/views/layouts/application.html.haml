@@ -1,0 +1,22 @@
+!!!
+%html{ :lang => "en_GB" }
+  %head
+    %meta{ :content => "text/html; charset=UTF-8", "http-equiv" => "Content-Type" }
+    %meta{ :name => "language", :content => "en_GB" }
+    %meta{ :name => "author", :content => "Norman Köhring" }
+    %meta{ :name => "DC.title", :content => "Norman Köhring aka nkoehring" }
+    %meta{ :name => "description", :content => "sublab O.M.P. web music player" }
+    %meta{ :name => "keywords", :content => "sublab omp music player webinterface" }
+    /
+      GeoURL
+    %meta{ :name => "ICBM", :content => "51.332254, 12.362" }
+    %meta{ :name => "geo.position", :content => "51.332254, 12.362" }
+    %meta{ :name => "geo.region", :content => "DE" }
+    %link{ :href => "mailto:me[at]nkoehring.de", :rel => "author" }
+    %title< Lair of NKoehring
+    =stylesheet_link_tag "global", :media => :screen, :charset => "utf-8", :title => "Standard Layout"
+
+  %body
+    #page
+      =yield
+
